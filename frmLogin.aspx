@@ -344,7 +344,7 @@
                 
 
                    <div>
-                        <a input type="submit" runat="server" href="file:///C:\Users\admin\Desktop\student.davchd.ac.in\LandingPage.aspx">Sign In</a>
+                        <a input type="submit" runat="server" href="LandingPage.aspx">Sign In</a>
                    </div>
                 <div class="tmargin20">
                     
