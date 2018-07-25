@@ -253,7 +253,7 @@ No Due Certificate&emsp; Your Last Login Was on Jul 12 2018 10:03PM</a></td>
        <div style="display: none;">
 		<div id="inline1" style="width:600px;height:400px;overflow:auto;">
 			 <div>  </div>
-		</div>
+	</div>
 	</div>
 <script src="dist/js/bootstrap.min.js"></script>
    <script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
